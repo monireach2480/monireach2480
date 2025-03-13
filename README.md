@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student in Information and Communications Technology at AUPP<br>
+I am pursuing a bachelor of science in Information and Communications Technology at American University of Phnom Penh. I am passionate about Software development, with hands-on experience in both front-end and back-end technologies. I am eager to apply my skills in a professional environment and continuously grow as a developer.<br>
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursuing a bachelor of science in Information and Communications Technology at American University of Phnom Penh. I am passionate about Software development, with hands-on experience in both front-end and back-end technologies. I am eager to apply my skills in a professional environment and continuously grow as a developer.<br>
+Motivated full-stack developer and AI/ML engineer pursuing a Bachelor of Science in Information and Communications Technology at the American University of Phnom Penh. Skilled in building modern, secure, and responsive web applications using MERN stack, Spring Boot, and cloud deployment. Eager to contribute technical skills, creativity, and strong problem-solving abilities to real-world projects.<br>
 
 
 ## 🌐 Socials:

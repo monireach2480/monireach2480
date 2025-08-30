@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated full-stack developer and AI/ML engineer pursuing a Bachelor of Science in Information and Communications Technology at the American University of Phnom Penh. Skilled in building modern, secure, and responsive web applications using MERN stack, Spring Boot, and cloud deployment. Eager to contribute technical skills, creativity, and strong problem-solving abilities to real-world projects.<br>
+Motivated full-stack developer and AI/ML engineer pursuing a Bachelor of Science in Information and Communications Technology at the American University of Phnom Penh.<br>
 
 
 ## 🌐 Socials:

@@ -44,10 +44,11 @@
 
 ## 📚 Currently Learning  
 - 🧠 AI Engineering (Python, PyTorch, TensorFlow)  
-- 🤖 Deep Learning, Neural Networks & Generative AI (LLMs, Transformers, RAG)  
-- ⚙️ Machine Learning Model Deployment using Docker & Flask  
-- ☁️ Cloud AI Engineering with AWS and Google Cloud  
-- 🧩 Building End-to-End AI-Powered Web Applications  
+- 🤖 Core Machine Learning & Deep Learning Fundamentals, Neural Networks & Generative AI  
+- ⚙️ Model Deployment using Flask, Docker, and APIs  
+- ☁️ Cloud Platforms for AI (AWS & MS Azure)  
+- 💡 Building AI-Driven Web Applications with Spring Boot  
+
 
 
 ---

@@ -43,7 +43,7 @@
 ---
 
 ## 📚 Currently Learning  
-- 🧠 IBM AI Engineering Professional Certificate (Python, PyTorch, TensorFlow)  
+- 🧠 AI Engineering (Python, PyTorch, TensorFlow)  
 - 🤖 Deep Learning, Neural Networks & Generative AI (LLMs, Transformers, RAG)  
 - ⚙️ Machine Learning Model Deployment using Docker & Flask  
 - ☁️ Cloud AI Engineering with AWS and Google Cloud  

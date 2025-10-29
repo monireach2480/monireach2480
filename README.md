@@ -47,7 +47,7 @@
 - 🤖 Core Machine Learning & Deep Learning Fundamentals, Neural Networks & Generative AI  
 - ⚙️ Model Deployment using Flask, Docker, and APIs  
 - ☁️ Cloud Platforms for AI (AWS & MS Azure)  
-- 💡 Building AI-Driven Web Applications
+- 💡 Building AI-Driven Web Applications.
 
 
 

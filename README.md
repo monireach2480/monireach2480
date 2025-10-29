@@ -47,15 +47,13 @@
 - 🤖 Core Machine Learning & Deep Learning Fundamentals, Neural Networks & Generative AI  
 - ⚙️ Model Deployment using Flask, Docker, and APIs  
 - ☁️ Cloud Platforms for AI (AWS & MS Azure)  
-- 💡 Building AI-Driven Web Applications with Spring Boot  
+- 💡 Building AI-Driven Web Applications
 
 
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=monireach2480&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-![](https://nirzak-streak-stats.vercel.app/?user=monireach2480&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monireach2480&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=monireach2480&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=monireach2480&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monireach2480&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 

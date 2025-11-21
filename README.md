@@ -43,7 +43,7 @@
 ---
 
 ## 📚 Currently Learning  
-- 🧠 AI Engineering (Python, PyTorch, TensorFlow)  
+- 🧠 AI Engineering (Python, TensorFlow)  
 - 🤖 Core Machine Learning & Deep Learning Fundamentals, Neural Networks & Generative AI  
 - ⚙️ Model Deployment using Flask, Docker, and APIs  
 - ☁️ Cloud Platforms for AI (AWS & MS Azure)  

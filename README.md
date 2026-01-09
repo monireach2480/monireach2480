@@ -23,6 +23,7 @@ Motivated full-stack developer and aspiring full-stack AI Engineer pursuing a Ba
 ![LLM](https://img.shields.io/badge/LLM-%23000000.svg?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-%23007ACC.svg?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-%23E34F26.svg?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/langchain-%23000000.svg?style=for-the-badge)
 
 
 

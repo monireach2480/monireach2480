@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Motivated full-stack developer and aspiring full-stack AI Engineer pursuing a Bachelor of Science in Information and Communications Technology at the American University of Phnom Penh.<br>
+Junior full-stack developer and aspiring full-stack AI Engineer pursuing a Bachelor of Science in Information and Communications Technology at the American University of Phnom Penh.<br>
 
 
 ## 🌐 Socials:

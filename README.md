@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Junior Full-Stack Developer with a strong interest in Data Science and AI, currently pursuing a Bachelor of Science in Information and Communications Technology at the American University of Phnom Penh.
+Just chill guy!
 
 
 ## 🌐 Socials:

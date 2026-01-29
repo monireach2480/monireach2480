@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Just chill guy!
+Just a chill guy!
 
 
 ## 🌐 Socials:

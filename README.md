@@ -3,7 +3,9 @@
 # 💫 About Me:
 ICT junior at the American University of Phnom Penh with 5+ years of programming experience and 8 months of hands-on work experience (including internship) in full-stack and AI application development across multiple technologies. Skilled in building scalable web applications, APIs, and AI-powered systems, and integrating machine learning models into production environments.
 
-Actively developing full-stack AI projects, including chatbots and intelligent applications, with a strong interest in system design, backend development, AI integration, and machine learning.
+Actively developing full-stack AI and data-driven projects, including chatbots and intelligent applications, with a strong interest in data science, system design, backend development, and AI integration. 
+
+Seeking opportunities as a Data Scientist or AI Engineer to build reliable, intelligent, and impactful software solutions.
 
 
 ## 🌐 Socials:

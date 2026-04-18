@@ -27,6 +27,7 @@ Seeking opportunities as a Data Scientist or AI Engineer to build reliable, inte
 ![RAG](https://img.shields.io/badge/RAG-%23007ACC.svg?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-%23E34F26.svg?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/langchain-%23000000.svg?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 

@@ -1,13 +1,5 @@
 
 
-# 💫 About Me:
-ICT senior at the American University of Phnom Penh with 5+ years of programming experience and 11 months of hands-on work experience (including internship) in full-stack and AI application development across multiple technologies. Skilled in building scalable web applications, APIs, and AI-powered systems, and integrating machine learning models into production environments.
-
-Actively developing full-stack AI and data-driven projects, including chatbots and intelligent applications, with a strong interest in data science, system design, backend development, and AI integration. 
-
-Seeking opportunities as a Data Scientist or AI Engineer to build reliable, intelligent, and impactful software solutions.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/len.monireach) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/len.monireach) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/len-monireach) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lenmonireach123@gmail.com) 
 
